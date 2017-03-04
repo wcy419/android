@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"   	
+    android:layout_height="@dimen/ysk_search_animation_size">
+
+    <ImageView
+        android:id="@+id/layout_icon_image"
+        android:layout_width="@dimen/ysk_default_icon_size"
+        android:layout_height="@dimen/ysk_default_icon_size"
+        android:layout_centerInParent="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/ysk_ic_mic" />  
+
+</RelativeLayout>

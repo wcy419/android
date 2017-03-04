@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw500dp-v13/values-sw500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/values-sw500dp-v13/values-sw500dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 92,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/values-sw500dp-v13/values-sw500dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 92,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 87,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/values-sw500dp-v13/values-sw500dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 87,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endColumn": 49,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/values-sw500dp-v13/values-sw500dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 49,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 54,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/values-sw500dp-v13/values-sw500dp-v13.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 341,
+                        "endColumn": 54,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 48,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/values-sw500dp-v13/values-sw500dp-v13.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 48,
+                        "endOffset": 440
+                    }
+                }
+            }
+        ]
+    }
+]

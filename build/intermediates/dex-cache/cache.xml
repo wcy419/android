@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.4.0_d7ca4658185ebcc70f670c15d0ebb65500ccb059/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_dbf7ce734b376b78735f1b83282fde588e60a976/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.4.0_b2d78187d634e9c187aa2af0338243e2551d70fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.4.0_a6a1cf7b48c374bd86b3e6d5b580f9bf4a0b9d3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_9850d3306f0df189763ad3adc5552bfb87095a63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.4.0_8ffecb236eb497209b5344fabe8b4f43ab228a97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.4.0_aa61562d39b72d96c5ccd9193d9f9f287fd5d28e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_91aa168843c630481fbf36b166724286f607f5ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_12506894ae03cf6d2c808e744dfe125ba4429739/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="88f3e6a55233a552e19187eed2fbcd72fa8a7e23">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3621fefd636e9a2e661dc88059ad50562f1df74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_4bf30e467eb420e75ba5b8f39cd20d7e4947614c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.4.0_ca3735841d47b0e7fe723dc0002c728d41daf2ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9e0447c39874b2e0f9c80c15362151e0d9dc8a03">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.yandex.android-speechkit-2.5.0_0d87d6e043c1914d720704a045d314adaebb6d42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_af7ed9ab2f94cc8756378ba40e1507bf6c4c642c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_8e1d2ffc6e221799ec9683d86defb8351eb6c6e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_5a8c4e1d738268389d6b1962a5b59fc771810f1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="52f025d8f1d6fa315c228c6620c0c3d8f371d327">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_318d11466f8246e658abc0dd2886f4f4c905e6d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.4.0_afdb4cba4c83e5fdc8e0f53b4306522f8d69d800/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.5.0_30096be049d3cd2482ef235fa3f6e48975ec3aff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.4.0_837eb32ef3dd939d53b21df632fde81155339e1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_d63de31b9cd3edf6312cc4d7cc36b2c195be4689/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.4.0_95ffcd1798abd7a50f7aa0bcdfaf8620adc88c82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_9d114d5500e1c3727bb5d7222e8b3b69feebec5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_bb1af9df5878099bdb03997334819443a7dc1dbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_afea6002803c23670bee90b5ce2143f4834a79eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-8.4.0_70fbc6f7b53d490f5dc1cee2108d15d75a96adb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_8232c63a6b3cbf50cb1cecf9236129536f7ec98f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-8.4.0_1ae7c0741bfb55b469a13a2c1f09c49d23ea9051/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.4.0_630f98f49532281da6edba530037cd8af79a5183/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/jars/libs/YandexSpeechKit.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="624995bac6e0749f6b3f823cac5f2220e15fcd43">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/YandexSpeechKit_ff6b026f1d8846ccdad34bd26ff2c0c012bf97cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_eac487ef0d39499be819dbd33d13775cfe8a6257/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.4.0_fa77a485b24035f9763fb5ee8156757983c7d043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.4.0_7881bc5a645ea3684ae558dfed0cd61eae338ae3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_7a561aae5ad7bd99b216761784b56a502651b4ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_681dc14952c5092788c29c165a76737c44187c39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_b06e0ee3e535f87da7ca43c20bed919e170027b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_664977ae979815a50cbff5106480b754a651b1ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_dbdbaff2a9879a1b4a2d9728ed86ca202127c276/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.4.0_12896bc5146647c821c5c7be4c4657fa32f46ec4/classes.dex" />
+    </item>
+
+</items>

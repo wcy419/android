@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.baddriverreporter.PhraseSpotterFragment">
+
+
+    <SurfaceView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/preview" />
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <Button android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginBottom="20dp"
+
+            android:id="@+id/btn_start"
+            android:layout_marginLeft="5dp"
+            android:textColor="#000000"
+            android:layout_marginRight="5dp"
+            android:text="Start"/>
+
+        <Button android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_width="wrap_content"
+
+            android:id="@+id/btn_stop"
+            android:layout_marginLeft="5dp"
+            android:textColor="#000000"
+            android:layout_marginRight="5dp"
+            android:text="Stop"/>
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_width="90dp"
+
+            android:id="@+id/btn_report"
+            android:layout_marginLeft="5dp"
+            android:textColor="#000000"
+            android:layout_marginRight="5dp"
+            android:text="Report"
+            android:layout_weight="0.15" />
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_width="86dp"
+
+            android:id="@+id/btn_emergency"
+            android:layout_marginLeft="5dp"
+            android:textColor="#000000"
+            android:layout_marginRight="5dp"
+            android:text="Alert"
+            android:layout_weight="0.25" />
+
+
+    </LinearLayout>
+    <TextView
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="115dp"
+        android:id="@+id/current_state" />
+</RelativeLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ysk_gui_analyzing">Analiz ediliyor…</string>
+    <string name="ysk_gui_canceled">Tanımlama iptal edildi</string>
+    <string name="ysk_gui_cant_use_microphone">Uygulamanın mikrofona erişimi yok</string>
+    <string name="ysk_gui_choose_the_language">Dil seçin</string>
+    <string name="ysk_gui_connection_error">Bağlantı hatası</string>
+    <string name="ysk_gui_default_error">Sesli arama başlatılamadı.</string>
+    <string name="ysk_gui_no_match">Eşleşme yok</string>
+    <string name="ysk_gui_no_voice_detected">Ses tanımlanamadı</string>
+    <string name="ysk_gui_please_wait">Lütfen bekleyin</string>
+    <string name="ysk_gui_ready">Hazır</string>
+    <string name="ysk_gui_retry">Tekrar dene</string>
+    <string name="ysk_gui_searched_for">Şu arandı:</string>
+    <string name="ysk_gui_select">Seç</string>
+    <string name="ysk_gui_speak">Konuşun…</string>
+    <string name="ysk_gui_specify_your_inquiry">Sorgunuzu belirtin</string>
+    <string name="ysk_gui_unknown_error">Bilinmeyen hata</string>
+    <string name="ysk_gui_voice_search_not_available">Sesli arama kullanılamıyor</string>
+</resources>

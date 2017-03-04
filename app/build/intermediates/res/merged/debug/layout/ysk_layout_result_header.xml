@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_title_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="@dimen/ysk_content_side_padding"
+    android:paddingRight="@dimen/ysk_content_side_padding" >
+
+    <TextView
+        android:id="@+id/fragment_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginBottom="@dimen/ysk_result_title_margin_bottom"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:text="@string/ysk_gui_specify_your_inquiry"
+        android:textColor="#262626"
+        android:textSize="@dimen/ysk_content_text_size" />
+
+</RelativeLayout>

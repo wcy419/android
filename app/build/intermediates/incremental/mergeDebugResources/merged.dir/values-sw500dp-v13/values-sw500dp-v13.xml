@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ysk_is_tablet" type="bool">true</item>
+    <item format="float" name="ysk_land_top_container_height_ratio" type="dimen">0.17</item>
+    <item format="float" name="ysk_top_container_height_ratio" type="dimen">0.17</item>
+    <dimen name="ysk_window_height">600dp</dimen>
+    <dimen name="ysk_window_side_padding">20dp</dimen>
+    <dimen name="ysk_window_width">400dp</dimen>
+</resources>

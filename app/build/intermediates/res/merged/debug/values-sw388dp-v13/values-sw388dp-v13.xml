@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bar_icon_padding">16dp</dimen>
+    <dimen name="ysk_bar_height">56dp</dimen>
+    <dimen name="ysk_bar_side_margin">4dp</dimen>
+    <dimen name="ysk_circle_animation_step">0.7dp</dimen>
+    <dimen name="ysk_content_container_margin_top">135dp</dimen>
+    <dimen name="ysk_content_main_button_height">60dp</dimen>
+    <dimen name="ysk_content_margin_top">65dp</dimen>
+    <dimen name="ysk_content_side_padding">16dp</dimen>
+    <dimen name="ysk_content_text_size">22sp</dimen>
+    <dimen name="ysk_content_title_margin_top">113dp</dimen>
+    <dimen name="ysk_default_circle_thin">3.5dp</dimen>
+    <dimen name="ysk_default_divider_height">1dp</dimen>
+    <dimen name="ysk_default_icon_size">100dp</dimen>
+    <item format="float" name="ysk_land_top_container_height_ratio" type="dimen">0.07</item>
+    <dimen name="ysk_language_circle_thin">2.7dp</dimen>
+    <dimen name="ysk_language_container_height">194dp</dimen>
+    <dimen name="ysk_language_item_height">140dp</dimen>
+    <dimen name="ysk_language_item_icon_margin_top">16dp</dimen>
+    <dimen name="ysk_language_item_icon_padding">8dp</dimen>
+    <dimen name="ysk_language_item_icon_size">71dp</dimen>
+    <dimen name="ysk_language_item_margin_top">36dp</dimen>
+    <dimen name="ysk_language_item_ring_size">80dp</dimen>
+    <dimen name="ysk_language_item_text_margin_top">23dp</dimen>
+    <dimen name="ysk_language_item_textsize">12sp</dimen>
+    <dimen name="ysk_language_item_width">110dp</dimen>
+    <dimen name="ysk_result_list_row_height">57dp</dimen>
+    <dimen name="ysk_result_list_row_textsize">19sp</dimen>
+    <dimen name="ysk_result_title_margin_bottom">50dp</dimen>
+    <dimen name="ysk_search_animation_size">230dp</dimen>
+    <dimen name="ysk_search_progress_bar_size">100dp</dimen>
+    <item format="float" name="ysk_top_container_height_ratio" type="dimen">0.17</item>
+    <dimen name="ysk_up_container_height">150dp</dimen>
+    <dimen name="ysk_up_container_height_land">75dp</dimen>
+</resources>

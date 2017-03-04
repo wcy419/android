@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ysk_is_tablet" type="bool">false</item>
+    <dimen name="bar_icon_padding">14.1dp</dimen>
+    <dimen name="ysk_bar_height">49.3dp</dimen>
+    <dimen name="ysk_bar_side_margin">3.5dp</dimen>
+    <dimen name="ysk_circle_animation_step">0.7dp</dimen>
+    <dimen name="ysk_content_container_margin_top">118.8dp</dimen>
+    <dimen name="ysk_content_main_button_height">52.8dp</dimen>
+    <dimen name="ysk_content_margin_top">36dp</dimen>
+    <dimen name="ysk_content_side_padding">14.1dp</dimen>
+    <dimen name="ysk_content_text_size">19.4sp</dimen>
+    <dimen name="ysk_content_title_margin_top">99.4dp</dimen>
+    <dimen name="ysk_default_circle_thin">3dp</dimen>
+    <dimen name="ysk_default_divider_height">0.9dp</dimen>
+    <dimen name="ysk_default_icon_size">88dp</dimen>
+    <item format="float" name="ysk_land_top_container_height_ratio" type="dimen">0.07</item>
+    <dimen name="ysk_language_circle_thin">2.4dp</dimen>
+    <dimen name="ysk_language_container_height">127dp</dimen>
+    <dimen name="ysk_language_item_height">123.2dp</dimen>
+    <dimen name="ysk_language_item_icon_margin_top">14.1dp</dimen>
+    <dimen name="ysk_language_item_icon_padding">7dp</dimen>
+    <dimen name="ysk_language_item_icon_size">62.5dp</dimen>
+    <dimen name="ysk_language_item_margin_top">33dp</dimen>
+    <dimen name="ysk_language_item_ring_size">70.4dp</dimen>
+    <dimen name="ysk_language_item_text_margin_top">20.2dp</dimen>
+    <dimen name="ysk_language_item_textsize">10.6sp</dimen>
+    <dimen name="ysk_language_item_width">96.8dp</dimen>
+    <dimen name="ysk_result_list_row_height">50.2dp</dimen>
+    <dimen name="ysk_result_list_row_textsize">16.7sp</dimen>
+    <dimen name="ysk_result_title_margin_bottom">44dp</dimen>
+    <dimen name="ysk_search_animation_size">160dp</dimen>
+    <dimen name="ysk_search_progress_bar_size">88dp</dimen>
+    <item format="float" name="ysk_top_container_height_ratio" type="dimen">0.17</item>
+    <dimen name="ysk_up_container_height">110dp</dimen>
+    <dimen name="ysk_up_container_height_land">25dp</dimen>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ysk_gui_analyzing">Analyzing…</string>
+    <string name="ysk_gui_canceled">Recognition canceled</string>
+    <string name="ysk_gui_cant_use_microphone">The application does not have permission to use the microphone</string>
+    <string name="ysk_gui_choose_the_language">Choose the language</string>
+    <string name="ysk_gui_connection_error">Connection error</string>
+    <string name="ysk_gui_default_error">Unable to initialize voice search.</string>
+    <string name="ysk_gui_language_english">ENGLISH</string>
+    <string name="ysk_gui_language_russian">РУССКИЙ</string>
+    <string name="ysk_gui_language_turkish">TÜRKÇE</string>
+    <string name="ysk_gui_language_ukrainian">УКРАЇНСЬКА</string>
+    <string name="ysk_gui_no_match">No match</string>
+    <string name="ysk_gui_no_voice_detected">No voice detected</string>
+    <string name="ysk_gui_please_wait">Please wait</string>
+    <string name="ysk_gui_ready">Ready</string>
+    <string name="ysk_gui_retry">Retry</string>
+    <string name="ysk_gui_searched_for">Searched for:</string>
+    <string name="ysk_gui_select">Select</string>
+    <string name="ysk_gui_speak">Speak…</string>
+    <string name="ysk_gui_specify_your_inquiry">Specify your inquiry</string>
+    <string name="ysk_gui_unknown_error">Unknown error</string>
+    <string name="ysk_gui_voice_search_not_available">Voice search not available</string>
+</resources>

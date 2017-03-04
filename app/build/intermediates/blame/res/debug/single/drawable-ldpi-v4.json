@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ysk_ic_launcher.png",
+        "source": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/drawable-ldpi-v4/ysk_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ysk_ic_english.png",
+        "source": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/drawable-ldpi-v4/ysk_ic_english.png"
+    },
+    {
+        "merged": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ysk_ic_info.png",
+        "source": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/drawable-ldpi-v4/ysk_ic_info.png"
+    },
+    {
+        "merged": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ysk_ic_close.png",
+        "source": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/drawable-ldpi-v4/ysk_ic_close.png"
+    },
+    {
+        "merged": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ysk_ic_repeat.png",
+        "source": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/drawable-ldpi-v4/ysk_ic_repeat.png"
+    },
+    {
+        "merged": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ysk_ic_russia.png",
+        "source": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/drawable-ldpi-v4/ysk_ic_russia.png"
+    },
+    {
+        "merged": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ysk_ic_ukraine.png",
+        "source": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/drawable-ldpi-v4/ysk_ic_ukraine.png"
+    },
+    {
+        "merged": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ysk_ic_turkey.png",
+        "source": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/drawable-ldpi-v4/ysk_ic_turkey.png"
+    },
+    {
+        "merged": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ysk_ic_error.png",
+        "source": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/drawable-ldpi-v4/ysk_ic_error.png"
+    },
+    {
+        "merged": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ysk_ic_mic.png",
+        "source": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/drawable-ldpi-v4/ysk_ic_mic.png"
+    },
+    {
+        "merged": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ysk_ic_megafon.png",
+        "source": "/Users/ch505/Downloads/BadDriverReport 2/app/build/intermediates/exploded-aar/com.yandex.android/speechkit/2.5.0/res/drawable-ldpi-v4/ysk_ic_megafon.png"
+    }
+]

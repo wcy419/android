@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ysk_gui_analyzing">Оброблення…</string>
+    <string name="ysk_gui_canceled">Розпізнавання скасовано</string>
+    <string name="ysk_gui_cant_use_microphone">У програми немає прав для використання мікрофона</string>
+    <string name="ysk_gui_choose_the_language">Виберіть мову</string>
+    <string name="ysk_gui_connection_error">Помилка підключення</string>
+    <string name="ysk_gui_default_error">Не вдалося запустити голосовий пошук.</string>
+    <string name="ysk_gui_no_match">Повторіть ще раз</string>
+    <string name="ysk_gui_no_voice_detected">Вас не чути</string>
+    <string name="ysk_gui_please_wait">Будь ласка, зачекайте</string>
+    <string name="ysk_gui_ready">Готово</string>
+    <string name="ysk_gui_retry">Повторити</string>
+    <string name="ysk_gui_searched_for">Шукати:</string>
+    <string name="ysk_gui_select">Готово</string>
+    <string name="ysk_gui_speak">Говоріть…</string>
+    <string name="ysk_gui_specify_your_inquiry">Уточніть запит</string>
+    <string name="ysk_gui_unknown_error">Невідома помилка</string>
+    <string name="ysk_gui_voice_search_not_available">Розпізнавання голосу недоступне</string>
+</resources>

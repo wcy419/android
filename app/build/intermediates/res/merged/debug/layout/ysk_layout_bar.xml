@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bar_conatiner"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/ysk_bar_height"
+    android:layout_alignParentTop="true" >
+
+    
+    <ImageView
+        android:id="@+id/cancel_button"
+        android:layout_width="@dimen/ysk_bar_height"
+        android:layout_height="@dimen/ysk_bar_height"
+        android:layout_alignParentLeft="true"
+        android:padding="@dimen/bar_icon_padding"
+        android:background="@drawable/ysk_background_selector"
+        android:scaleType="centerInside"
+        android:src="@drawable/ysk_ic_close" />    
+
+    <ImageView
+        android:id="@+id/language_button"
+        android:layout_width="@dimen/ysk_bar_height"
+        android:layout_height="@dimen/ysk_bar_height"        
+        android:padding="@dimen/bar_icon_padding"
+        android:layout_alignParentRight="true"                
+        android:background="@drawable/ysk_background_selector"        
+        android:scaleType="centerInside" />
+
+</RelativeLayout>
